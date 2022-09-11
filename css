@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+body {
+   
+    
+    background-color: black;
+    background-image: url("bild16.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    
+    
+  
+}
+
+header {
+    padding: 4rem 2rem 4rem 2rem;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+h2 {
+    margin: 0 0 2rem 0;
+}
+
+nav {
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+    
+    }
+
+a {
+    display: inline;
+    float: left;
+    color: white;
+    margin: 0;
+    padding: 1rem 2rem 1rem 2rem;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    background-color: rgba(255, 255, 255, 0.075);
+}
+
+section {
+    padding: 2rem;
+    overflow: hidden;
+    background-color: white;
+    
+}
+
+article {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin: calc(5% /3);
+    padding: 2rem;
+    width: calc(90% / 3);
+    background-color: rgba(0, 0, 0, 0.397);
+    color: rgb(255, 255, 255);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 3rem 2rem 3rem 2rem;
+    background-color: #17242a00;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+div {
+    color: rgb(255, 255, 255);
+}
