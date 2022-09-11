@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Css Website">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="Author" content="Ali och Erjon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="refresh" content="30">
+    <link rel="stylesheet" href="test.css">
+    <title>Positionering</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap" rel="stylesheet">   
+
+</head>
+<body>
+    <header>        
+        <h1>Positionering CSS</h1>
+    </header>
+    <nav>
+        <a href="http://127.0.0.1:5500/home.html">Home</a>
+        <a href="http://127.0.0.1:5500/products.html">Products</a>
+        <a href="http://127.0.0.1:5500/about1.html">About</a>
+        <a href="http://127.0.0.1:5500/contact.html">Contact</a>
+   </nav>       
+    <div>
+        <h1>Sektion 1</h1>
+        <article>
+            <h2>1 artikel i sektion 1</h2>
+            <p>text 11</p>
+            <p>text 11</p>
+            <p>text 11</p>
+        </article>
+        <article>
+            <h2>1 artikel i sektion 1</h2>
+            <p>text 12</p>
+            <p>text 12</p>
+            <p>text 12</p>
+        </article>
+        <article>
+            <h2>1 artikel i sektion 1</h2>
+            <p>text 13</p>
+            <p>text 13</p>
+            <p>text 13</p>
+        </article>
+    </div>
+    <div>
+        <h1>Sektion 2</h1>
+        <article>
+            <h2>1 artikel i sektion 2</h2>
+            <p>text 21</p>
+            <p>text 21</p>
+            <p>text 21</p>
+        </article>
+        <article>
+            <h2>1 artikel i sektion 2</h2>
+            <p>text 22</p>
+            <p>text 22</p>
+            <p>text 22</p>
+        </article>
+        <article>
+            <h2>1 artikel i sektion 2</h2>
+            <p>text 23</p>
+            <p>text 23</p>
+            <p>text 23</p>
+        </article>
+    </div>
+    <footer>
+        <p>© 2022  Ali & Erjon</p>
+    </footer>
+</body>
+</html>
